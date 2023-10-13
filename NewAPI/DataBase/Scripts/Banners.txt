@@ -1,0 +1,9 @@
+﻿CREATE TABLE Videos (
+    Id CHAR(36) PRIMARY KEY,
+    Title VARCHAR(255) NOT NULL,
+    Url VARCHAR(255) NOT NULL,
+    Description TEXT NOT NULL,
+    VideoId VARCHAR(255),
+    CourseId CHAR(36),
+    Material_Complementar VARCHAR(255)
+);

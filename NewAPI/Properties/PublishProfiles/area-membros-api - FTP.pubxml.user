@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Esse arquivo é usado pelo processo de publicação/pacote do seu projeto Web. É possível personalizar o comportamento deste processo
+ao editar este arquivo MSBuild. Para saber mais sobre isso, visite https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAk8xXJJnlXkWvmat9DTlvwwAAAAACAAAAAAAQZgAAAAEAACAAAADGjia5/BwIWqELlqomI/NM5NowCwWQ8RNhokSb3KnCQAAAAAAOgAAAAAIAACAAAAC3VBnxlmc5RY/PVYclkGuhLU+PK7iO80DMT8OGEk0xqYAAAACKGVDaSQ/63nDiQejIRBgSH3FuRpw8nn6cMridcLb73FumTjppGfw11irPrJ14IaZA0k7maOmK+ZTy/f4PnFBwSAgkr3sc8tG28erokXdLumBAFOSqDqiVfr/tB26msEFMoL4HGAbWXuyTFjhQlhcKuMYEpfJ836AhynWovKc4BUAAAACX0pVHdvueN+b7xF2pndpbMKIPBTOVefoRW3yc3F3e0F02t5K+kkG7ME7nj9LZr3mRlUh28cjZJYpUi9KW0RDU</EncryptedPassword>
+    <_PublishTargetUrl>ftps://waws-prod-blu-497.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+  </PropertyGroup>
+</Project>

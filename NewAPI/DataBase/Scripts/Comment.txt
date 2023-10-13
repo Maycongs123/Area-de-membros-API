@@ -1,0 +1,7 @@
+﻿CREATE TABLE Comment (
+    Id CHAR(36) PRIMARY KEY,
+    IdCurso VARCHAR(255) NOT NULL,
+    IdUser INT NOT NULL,
+    Description TEXT,
+    CreatedDate DATETIME
+);

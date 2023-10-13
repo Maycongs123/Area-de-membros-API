@@ -1,0 +1,7 @@
+﻿CREATE TABLE Cursos (
+    Id VARCHAR(255) PRIMARY KEY,
+    Title VARCHAR(255) NOT NULL,
+    Description TEXT,
+    Disabled BOOLEAN,
+    Image VARCHAR(255)
+);
